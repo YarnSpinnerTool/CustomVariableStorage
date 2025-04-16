@@ -1,0 +1,11 @@
+﻿title: Sample
+---
+/// do they know about fred?
+<<declare $knows_fred = false>>
+/// how many coins do you have?
+<<declare $gold_coins = 5>>
+/// what is your name?
+<<declare $player_name = "Alice">>
+
+This is a sample script with just a few variables within it to test off custom variable storage.
+===

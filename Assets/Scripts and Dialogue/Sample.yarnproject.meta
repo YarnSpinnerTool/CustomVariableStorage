@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 47d452fe973f342328a9ff5f6f3d7249
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 053561912b1654d80a424bb0696a74ae, type: 3}
+  generateVariablesSourceFile: 1
+  variablesClassName: CustomGeneratedVariableStorage
+  variablesClassNamespace: 
+  variablesClassParent: GameStateManager
+  useAddressableAssets: 0
+  unityLocalisationStringTableCollectionGUID: 
+  UseUnityLocalisationSystem: 0
